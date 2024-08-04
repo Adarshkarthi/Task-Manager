@@ -1,0 +1,18 @@
+# ASP.NET Core
+bin/
+obj/
+*.db
+*.bak
+*.log
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.suo
+*.vscode/
+
+# Dotnet tools
+project.lock.json
+project.fragment.lock.json
+artifacts/
